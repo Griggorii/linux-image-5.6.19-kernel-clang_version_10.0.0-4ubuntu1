@@ -10,4 +10,4 @@ $$ make menuconfig
 
 $$ make -j16 bindeb-pkg
 
-ignore пропустить press enter до самого конца пока не кончится список как все пропустится начнется сборка
+ignore new add module enter enter press пропустить press enter до самого конца пока не кончится список как все пропустится начнется сборка
