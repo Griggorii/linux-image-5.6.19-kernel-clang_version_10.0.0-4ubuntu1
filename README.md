@@ -4,7 +4,7 @@ config , include , kernel
 
 example copy to autoconfig linux-oem-5.6-5.6.0/include/config
 
-config copy to <linux-kernel-version> /include/config
+config copy to {linux-kernel-version}/include/config
 
 $$ make menuconfig
 
