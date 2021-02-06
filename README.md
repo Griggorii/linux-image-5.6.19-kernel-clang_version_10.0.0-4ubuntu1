@@ -2,9 +2,9 @@
 config , include , kernel
 
 
-example copy to autoconfig linux-oem-5.6-5.6.0/include/config
+example copy folder config to autoconfig linux-oem-5.6-5.6.0/include/
 
-config copy to {linux-kernel-version}/include/config
+folder config copy to {linux-kernel-version}/include/
 
 $$ make menuconfig
 
